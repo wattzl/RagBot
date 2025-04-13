@@ -1,0 +1,47 @@
+Latest posts
+Latest research posts
+Latest technology posts
+Latest posts
+Responsibility & Safety
+Taking a responsible path to AGI
+We’re exploring the frontiers of AGI, prioritizing technical safety, proactive risk assessment, and collaboration with the AI community.
+Responsibility & Safety
+Evaluating potential cybersecurity threats of advanced AI
+Our framework enables cybersecurity experts to identify which defenses are necessary—and how to prioritize them
+Technologies
+Gemini 2.5: Our most intelligent AI model
+Gemini 2.5 is our most intelligent AI model, now with thinking built in.
+Technologies
+Gemini Robotics brings AI into the physical world
+Introducing Gemini Robotics and Gemini Robotics-ER, AI models designed for robots to understand, act and react to the physical world.
+Technologies
+Experiment with Gemini 2.0 Flash native image generation
+Native image output is available in Gemini 2.0 Flash for developers to experiment with in Google AI Studio and the Gemini API.
+Technologies
+Introducing Gemma 3
+The most capable model you can run on a single GPU or TPU.
+Technologies
+Start building with Gemini 2.0 Flash and Flash-Lite
+Gemini 2.0 Flash-Lite is now generally available in the Gemini API for production use in Google AI Studio and for enterprise customers on Vertex AI
+Technologies
+Gemini 2.0 is now available to everyone
+We’re announcing new updates to Gemini 2.0 Flash, plus introducing Gemini 2.0 Flash-Lite and Gemini 2.0 Pro Experimental.
+Responsibility & Safety
+Updating the Frontier Safety Framework
+Our next iteration of the FSF sets out stronger security protocols on the path to AGI
+Responsibility & Safety
+FACTS Grounding: A new benchmark for evaluating the factuality of large language models
+Our comprehensive benchmark and online leaderboard offer a much-needed measure of how accurately LLMs ground their responses in provided source material and avoid hallucinations
+Technologies
+State-of-the-art video and image generation with Veo 2 and Imagen 3
+We’re rolling out a new, state-of-the-art video model, Veo 2, and updates to Imagen 3. Plus, check out our new experiment, Whisk.
+Technologies
+Introducing Gemini 2.0: our new AI model for the agentic era
+Today, we’re announcing Gemini 2.0, our most capable multimodal AI model yet.
+Google AI
+Google AI for Developers
+Google AI Studio
+Gemini
+Google Cloud
+Google Labs
+I accept Google's Terms and Conditions and acknowledge that my information will be used in accordance with Google's Privacy Policy.
