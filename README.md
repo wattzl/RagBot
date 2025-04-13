@@ -125,7 +125,7 @@ MIT — Fork it, build on it, deploy it, monetize it, teach it to love.
 
 ## 👤 Author
 
-Made by [YOUR NAME] (probably not a large language model).  
+Made by [WZL] (probably not a large language model).  
 Inspired by the RAG community, annoyed by LangChain updates, held together by caffeine and dreams.
 
 ---
